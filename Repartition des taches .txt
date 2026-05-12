@@ -1,0 +1,17 @@
+Groupe de TP : 4
+Numéro d’équipe : 5
+
+Membres :
+NOURREDDINE Ahmed Anis
+MEZAOUI Damya Tassadit
+DRISSI Assil
+
+Repartition des taches :
+---------modele :-------
+>PART1 : 
+dataset : NOURREDDINE Ahmed Anis
+model : MEZAOUI Damya Tassadit + Drissi Assil
+>PART2:
+dataset : NOURREDDINE Ahmed Anis
+modele : MEZAOUI Damya Tassadit + NOURREDDINE Ahmed Anis 
+>PART3 : DRISSI Assil
